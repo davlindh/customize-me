@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/customize-me
+purpose: User customization and personalization experiment.
+status: unresolved-experiment
+canonical_parent: null
+capabilities: [customization, personalization]
+vertical: product-experiment
+omniframez_role: unresolved-capability-experiment
+evidence: {confidence: low, sources: [repository-name]}
+harvest_action: inspect-then-classify
+relations:
+  - may_contribute_to: personalized contextual interfaces
